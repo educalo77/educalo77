@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 ## My resumee:
 &nbsp;
 [![alt text][4.1]][4]
-[4.1]: https://www.flaticon.com/svg/static/icons/svg/85/85047.svg
-[4]: https://github.com/educalo77.github.io/Resume/
+
 &nbsp;
 ## Languages & Tools:
 
@@ -88,3 +87,6 @@ Here are some ideas to get you started:
 
 [3]: mailto:educalo386@gmail.com
 
+[4.1]: https://www.flaticon.com/svg/static/icons/svg/85/85047.svg
+
+[4]: https://github.com/educalo77.github.io/Resume/

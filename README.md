@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 &nbsp;
 [![alt text][4.1]][4]
 [4.1]: https://www.flaticon.com/svg/static/icons/svg/85/85047.svg
-[4]: https://educalo77.github.io/Resume/
-
+[4]: https://github.com/educalo77.github.io/Resume/
+&nbsp;
 ## Languages & Tools:
 
 

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### In parallel to the aforementioned, I find myself developing projects in React - React / Redux - Express JS - Sequelize - Testing.
 
 &nbsp;
-## My resumee:
+## My resumé:
 &nbsp;&nbsp;&nbsp;
 
 [![alt text][4.1]][4]

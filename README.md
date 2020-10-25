@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Eduardo Calo
+# Eduardo Calo
 ***
 &nbsp;
 
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-<font color="gold" size="5">
-Languages & Tools:
-</font>
+
+## Languages & Tools:
+
 
 &nbsp;
 <p align="">
@@ -60,9 +60,9 @@ Languages & Tools:
 &nbsp;
 ***
 &nbsp;
-<font color="gold" size="5">
-Contact Me:
-</font>
+
+## Contact Me:
+
 &nbsp;
 
 [![alt text][1.1]][1]

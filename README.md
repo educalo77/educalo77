@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my repository, where I keep code made based on the knowledge that I have been absorbing over the years. One of my goals is to be able to get my first job in IT as a developer, generating an impact on users around the world.
+### Welcome to my repository, where I keep code based on the knowledge that I have been absorbing over the years. One of my goals is to be able to get my first job in IT as a developer, generating an impact on users around the world.
 
 ### :telescope: I am interested in software development.
 

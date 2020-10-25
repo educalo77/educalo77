@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<font color="gold" size="15" >Eduardo Calo</font>
+<font color="gold" font-size="20" >Eduardo Calo</font>
 ***
 &nbsp;
 

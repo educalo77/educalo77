@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 ### In parallel to the aforementioned, I find myself developing projects in React - React / Redux - Express JS - Sequelize - Testing.
 
 &nbsp;
-
+## My resumee:
+&nbsp;
+[![alt text][4.1]][4]
+[4.1]: https://www.flaticon.com/svg/static/icons/svg/85/85047.svg
+[4]: https://educalo77.github.io/Resume/
 
 ## Languages & Tools:
 

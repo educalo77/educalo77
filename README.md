@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I'm Eduardo Calo
 
 <!--
 **educalo77/educalo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# I'm Eduardo Calo
-
-&nbsp;
 
 ### Welcome to my repository, where I keep code made based on the knowledge that I have been absorbing over the years. One of my goals is to be able to get my first job in IT as a developer, generating an impact on users around the world.
 

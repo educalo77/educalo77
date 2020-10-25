@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 &nbsp;
 ## My resumee:
 &nbsp;
-[![alt text][4.1]][4]
+
+<p align="center" src="https://github.com/educalo77.github.io/Resume/" >
+  <img width="7%" height="50%" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png">
+</p>
 
 &nbsp;
 ## Languages & Tools:
@@ -87,6 +90,4 @@ Here are some ideas to get you started:
 
 [3]: mailto:educalo386@gmail.com
 
-[4.1]: https://www.flaticon.com/svg/static/icons/svg/85/85047.svg
 
-[4]: https://github.com/educalo77.github.io/Resume/

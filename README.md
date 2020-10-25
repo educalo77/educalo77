@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [4.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/website-48x48.png
 
-[4]: https://github.com/educalo77.github.io/Resume/
+[4]: https://educalo77.github.io/Resume/
 &nbsp;
 ## Languages & Tools:
 

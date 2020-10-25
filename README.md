@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 &nbsp;
 ## My resumee:
 &nbsp;
+[![alt text][4.1]][4]
 
-<p align="center" src="https://github.com/educalo77.github.io/Resume/" >
-  <img width="7%" height="50%" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png">
-</p>
+[4.1]: https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/website-48x48.png
 
+[4]: https://github.com/educalo77.github.io/Resume/
 &nbsp;
 ## Languages & Tools:
 

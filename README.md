@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Eduardo Calo
-***
+
 &nbsp;
 
 ### Welcome to my repository, where I keep code made based on the knowledge that I have been absorbing over the years. One of my goals is to be able to get my first job in IT as a developer, generating an impact on users around the world.
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 &nbsp;
-***
+
 &nbsp;
 
 ## Contact Me:

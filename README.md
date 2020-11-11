@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### :telescope: I am interested in software development.
 
 
-### Currently I am in the last stage of projects at Henry, to graduate as a Full Stack Developer in Javascript.
+### I am graduated as a Full Stack Developer in Javascript at Henry.
 
 ### I also have extra courses on Coursera, Cisco Networking Academy, Udemy, and more, made in order to improve my technical profile.
 

@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my repository, where I keep code based on the knowledge that I have been absorbing over the years. One of my goals is to be able to get my first job in IT as a developer, generating an impact on users around the world.
+### I'm a Full Stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, React/Redux, Node, Passport, Express and SQL/Sequelize, graphQL.
 
-### :telescope: I am interested in software development.
+### I love solving problems and am looking forward to working on new cool projects!
 
-
-### I am graduated as a Full Stack Developer in Javascript at Henry.
-
-### I also have extra courses on Coursera, Cisco Networking Academy, Udemy, and more, made in order to improve my technical profile.
-
-### In parallel to the aforementioned, I find myself developing projects in React - React / Redux - Express JS - Sequelize - Testing.
 
 &nbsp;
 ## My resumé:

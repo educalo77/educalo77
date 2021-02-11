@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
 <img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
 <img width="8.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sequelize_icon_130173.png">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png">
 <img width="9%" height="50%" src="https://cdn.icon-icons.com/icons2/1243/PNG/512/adobeillustratoricon_84157.png">
 <img width="9%" height="50%" src="https://cdn.icon-icons.com/icons2/1243/PNG/512/adobephotoshopicon_84144.png">
 <img width="9.2%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/gimp_original_wordmark_logo_icon_146514.png">

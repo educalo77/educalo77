@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Full Stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, React/Redux, Node, Passport, Express and SQL/Sequelize, graphQL.
+### I'm a Full Stack Javascript developer, I have experience working with Bootstrap/MaterialUI/Sass, React/Redux, Node, Passport, Mailgun, Express and Sequelize, mySQL, PostgreSQL, MongoDB, Docker && graphQL.
 
 ### I love solving problems and am looking forward to working on new cool projects!
 

@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img width="8.5%" height="50%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png">
 <img width="9.6%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
 <img width="8.4%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png">
-<img width="10%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
+<img width="8.6%" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
 <img width="8.4%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
 <img width="8%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png">
 <img width="10%" height="50%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_wordmark_logo_icon_146528.png">
